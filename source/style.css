@@ -28,3 +28,9 @@ em{
 li{
     font-size: 18px;
 }
+ul,li,i{
+    color: red
+}
+p,i{
+    color:green
+}
